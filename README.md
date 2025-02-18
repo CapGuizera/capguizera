@@ -35,7 +35,7 @@ Sou um entusiasta da cibersegurança e programador com experiência em diversas 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CapGuizera&layout=compact&theme=tokyonight)
 
 ## 🐍 Contribuições
-![Snake animation](https://github.com/CapGuizera/CapGuizera/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/CapGuizera/CapGuizera/output/github-contribution-grid-snake.svg)
 
 ## 📫 Contato
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@example.com)
