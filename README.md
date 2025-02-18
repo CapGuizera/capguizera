@@ -2,6 +2,10 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=600&lines=Pentester+e+Desenvolvedor;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+Ciberseguran%C3%A7a+e+Tecnologia)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CapGuizera&show_icons=true&theme=tokyonight)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CapGuizera&layout=compact&theme=tokyonight)
+
 Sou um entusiasta da cibersegurança e programador com experiência em diversas linguagens e ferramentas. Atualmente, curso **Análise e Desenvolvimento de Sistemas na FACENS** e utilizo plataformas como **TryHackMe** e **HackTheBox** para aprimorar minhas habilidades.
 
 ## 🚀 Tecnologias e Ferramentas
@@ -27,12 +31,6 @@ Sou um entusiasta da cibersegurança e programador com experiência em diversas 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-## 📊 GitHub Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CapGuizera&show_icons=true&theme=tokyonight)
-
-### 📊 Linguagens Mais Usadas
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CapGuizera&layout=compact&theme=tokyonight)
 
 ## 🐍 Contribuições
 ![Snake animation](https://raw.githubusercontent.com/CapGuizera/CapGuizera/output/github-contribution-grid-snake.svg)
