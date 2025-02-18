@@ -1,6 +1,6 @@
 # About me
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=600&lines=Pentester+e+Desenvolvedor;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+Ciberseguran%C3%A7a+e+Tecnologia)](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=600&lines=Penetration+Tester+and+Developer;Student+of+Systems+Analysis+and+Development;Passionate+about+Cybersecurity+and+Technology)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=600&lines=Penetration+Tester+and+Developer;Student+of+Systems+Analysis+and+Development;Passionate+about+Cybersecurity+and+Technology)](https://github.com/your-username/your-repository)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CapGuizera&show_icons=true&theme=tokyonight)
 
