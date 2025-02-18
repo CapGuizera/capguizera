@@ -32,9 +32,5 @@ Sou um entusiasta da cibersegurança e programador com experiência em diversas 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 🐍 Contribuições
-![Snake animation](https://raw.githubusercontent.com/CapGuizera/CapGuizera/output/github-contribution-grid-snake.svg)
-
 ## 📫 Contato
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-maciel-1a77b7337/)
