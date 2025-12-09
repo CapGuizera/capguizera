@@ -1,30 +1,36 @@
+<div align="center">
+
 # 👨‍💻 Guilherme Maciel
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Penetration+Tester+%26+Developer;Cybersecurity+Enthusiast;Systems+Analysis+Student)](https://github.com/CapGuizera)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Penetration+Tester+%26+Developer;Cybersecurity+Enthusiast;Systems+Analysis+Student+%40+FACENS)](https://github.com/CapGuizera)
 
 </div>
 
---- 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ## 🎯 Sobre Mim
 
-Sou um entusiasta de **cibersegurança** e **desenvolvimento** com experiência em diversas linguagens e ferramentas. Atualmente cursando **Análise e Desenvolvimento de Sistemas na FACENS**, utilizo plataformas como **TryHackMe** e **HackTheBox** para aprimorar constantemente minhas habilidades em segurança ofensiva.
+Sou um entusiasta de **cibersegurança** e **desenvolvimento** com experiência em diversas linguagens e ferramentas. 
+
+🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas na FACENS**
+
+🔐 Utilizo plataformas como **TryHackMe** e **HackTheBox** para aprimorar constantemente minhas habilidades em segurança ofensiva
+
+💡 Apaixonado por resolver desafios CTF e descobrir vulnerabilidades
+
+<br clear="right"/>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-
-### 📊 GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CapGuizera&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapGuizera&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9&langs_count=8"/>
-
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CapGuizera&show_icons=true&count_private=true&hide_border=true&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme Maciel github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapGuizera&layout=compact&hide_border=true&title_color=00f7f7&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CapGuizera&theme=react&hide_border=true&background=0d1117&stroke=00f7f7&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7)](https://github.com/CapGuizera)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CapGuizera&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7" alt="Guilherme Maciel streak stats"/>
 </div>
 
 ---
@@ -43,7 +49,7 @@ Sou um entusiasta de **cibersegurança** e **desenvolvimento** com experiência 
 
 </div>
 
-### 🛡️ Ferramentas de Pentest
+### 🛡️ Ferramentas de Pentest & Segurança
 
 <div align="center">
 
@@ -52,7 +58,9 @@ Sou um entusiasta de **cibersegurança** e **desenvolvimento** com experiência 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0078D4?style=for-the-badge&logo=nmap&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=linux&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=databricks&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -62,6 +70,7 @@ Sou um entusiasta de **cibersegurança** e **desenvolvimento** com experiência 
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/CapGuizera)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/CapGuizera)
+![LetsDefend](https://img.shields.io/badge/LetsDefend-4B275F?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -72,6 +81,7 @@ Sou um entusiasta de **cibersegurança** e **desenvolvimento** com experiência 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
@@ -91,17 +101,22 @@ interests = {
 
 ---
 
-## 📈 Atividade Recente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## 🏆 Conquistas
 
 <div align="center">
 
-### 📫 Entre em Contato
+![Trophies](https://github-profile-trophy.vercel.app/?username=CapGuizera&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 📫 Entre em Contato
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-maciel-1a77b7337/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CapGuizera)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CapGuizera)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
 
 </div>
@@ -120,8 +135,20 @@ interests = {
 
 <div align="center">
 
+![Snake animation](https://github.com/CapGuizera/CapGuizera/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=CapGuizera&color=00f7f7&style=for-the-badge&label=PROFILE+VIEWS)
 
 **"A segurança é uma jornada, não um destino."** 🔐
 
 </div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00f7f7&height=120&section=footer"/>
