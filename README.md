@@ -25,16 +25,24 @@ I'm a **cybersecurity** and **development** enthusiast with experience in severa
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CapGuizera&show_icons=true&count_private=true&hide_border=true&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="Guilherme Maciel github stats" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapGuizera&layout=compact&hide_border=true&title_color=00f7f7&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8" />
+  <a href="https://github.com/CapGuizera">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CapGuizera&show_icons=true&count_private=true&hide_border=true&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  </a>
+  <a href="https://github.com/CapGuizera">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapGuizera&layout=compact&hide_border=true&title_color=00f7f7&text_color=c9d1d9&bg_color=0d1117&langs_count=6" alt="Top Languages" />
+  </a>
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=CapGuizera&theme=react&hide_border=true&background=0D1117&stroke=00f7f7&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7&sideLabels=00f7f7&border_radius=10" alt="Guilherme Maciel streak stats"/>
+  <a href="https://github.com/CapGuizera">
+    <img src="https://streak-stats.demolab.com/?user=CapGuizera&theme=dark&hide_border=true&background=0D1117&stroke=00f7f7&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7&sideLabels=00f7f7" alt="GitHub Streak" />
+  </a>
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=CapGuizera&bg_color=0d1117&color=00f7f7&line=00f7f7&point=00f7f7&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+  <a href="https://github.com/CapGuizera">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CapGuizera&bg_color=0d1117&color=00f7f7&line=00f7f7&point=00f7f7&area=true&hide_border=true" alt="Contribution Graph" />
+  </a>
 </div>
 
 ---
