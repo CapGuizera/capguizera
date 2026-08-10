@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Guilherme Maciel
+# 👨‍💻 CapGuizera
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Penetration+Tester+%26+Developer;Cybersecurity+Enthusiast;Systems+Analysis+Student+%40+FACENS)](https://github.com/CapGuizera)
 
@@ -12,7 +12,7 @@
 
 I'm a **cybersecurity** and **development** enthusiast with experience in several languages and tools.
 
-🎓 Currently studying **Systems Analysis and Development at FACENS**
+🎓 Currently studying **Systems Analysis and Development**
 
 🔐 Using platforms like **TryHackMe** and **HackTheBox** to constantly improve my offensive security skills
 
